@@ -36,3 +36,12 @@ More specifically, Web accessibility means that people with disabilities can per
     2.3 percent of people in the US (7 million people) report having a visual disability, and 1 million people in the US are legally blind.
     16 percent of people in the US (39 million people) have difficulties with their physical functioning. 17.1 million people would find it very difficult or impossible to walk unassisted for a quarter mile.
     Roughly 8 million people in the US have an intellectual disability, including 425,000 children.
+
+## Types of Disabilities 
+
+    Mobility and physical
+    Cognitive and neurological
+    Visual
+    Hearing
+
+
