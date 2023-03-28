@@ -22,3 +22,17 @@
     Web Performance
     Internationalization
     UI Design
+
+` Web accessibility means that people with disabilities can use the Web. `
+
+More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
+
+
+## Some Statistics
+
+    26 percent (one in 4) of adults in the United States have some type of disability.
+    2 in 5 adults age 65 years and older have a disability
+    20 percent of people in the US (48 million people) report some degree of hearing loss, and 29 million of them could benefit from using hearing aids.
+    2.3 percent of people in the US (7 million people) report having a visual disability, and 1 million people in the US are legally blind.
+    16 percent of people in the US (39 million people) have difficulties with their physical functioning. 17.1 million people would find it very difficult or impossible to walk unassisted for a quarter mile.
+    Roughly 8 million people in the US have an intellectual disability, including 425,000 children.
