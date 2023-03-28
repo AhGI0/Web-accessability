@@ -47,3 +47,15 @@ More specifically, Web accessibility means that people with disabilities can per
 ## The web is already accessible (even if your website is not)
 
 For example, let's check out [The first website](http://info.cern.ch/hypertext/WWW/TheProject.html) . It's very easy to use with assistive technologies. 
+
+## Reasons developers should learn accessibility
+
+    It's fun!
+    We're the ones making it inaccessible
+    Human Rights
+    Legal Issue
+    Reach a larger audience
+    Impactful
+    Makes you a specialist
+
+<img src ="./keyboard.jpg" alt="pic shows us how to use keyword to make something accessiabke">
