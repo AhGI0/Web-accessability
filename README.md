@@ -44,4 +44,6 @@ More specifically, Web accessibility means that people with disabilities can per
     Visual
     Hearing
 
+## The web is already accessible (even if your website is not)
 
+For example, let's check out [The first website](http://info.cern.ch/hypertext/WWW/TheProject.html) . It's very easy to use with assistive technologies. 
